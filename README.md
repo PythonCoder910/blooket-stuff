@@ -1,5 +1,5 @@
-# blooket-hack
-backup for the glizzy hacks
+# blooket-thing
+backup for blooket
 
 How to use:
 copy the code from any of the .js files
